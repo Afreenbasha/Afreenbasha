@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afreenbasha&label=Profile%20views&color=0e75b6&style=flat" alt="afreenbasha" /> </p>
 
-- 🌱 I’m currently learning **MERN** 
+- 🌱 I’m currently learning **JavaFullStack** 
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Springboot**
 
 - 📫 How to reach me **afreenbasha08@gmail.com**
 
