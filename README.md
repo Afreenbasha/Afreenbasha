@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Springboot**
 
-- 📫 How to reach me **afreenbasha08@gmail.com**
+- 📫 How to reach me **afreenshaik05062@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
